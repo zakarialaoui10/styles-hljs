@@ -1,3 +1,5 @@
+// add automation 
+
 declare module "@styles/hljs/1c-light" {
   const css: void;
   export default css;
