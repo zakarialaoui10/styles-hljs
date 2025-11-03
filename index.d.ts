@@ -5,6 +5,7 @@ declare module "@styles/hljs/1c-light" {
   export default css;
 }
 
+
 // declare module "@styles/hljs/atom-one-dark" {
 //   const css: void;
 //   export default css;
